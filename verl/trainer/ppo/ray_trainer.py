@@ -2,7 +2,7 @@
 # Copyright 2023-2024 SGLang Team
 # Copyright 2025 ModelBest Inc. and/or its affiliates
 #
-# Modifications Copyright 2026 OPPO DongzeHao
+# Modifications Copyright 2026 OPPO
 # Modified by DongzeHao on 2026-05-26.
 # Changes: Add support for on-policy distillation.
 # Licensed under the Apache License, Version 2.0 (the "License");

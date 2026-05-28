@@ -14,7 +14,7 @@
 # limitations under the License.
 
 #
-# Modifications Copyright 2026 OPPO DongzeHao
+# Modifications Copyright 2026 OPPO
 # Modified by DongzeHao on 2026-05-26.
 # Changes: Add support for on-policy distillation.
 """
