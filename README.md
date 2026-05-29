@@ -36,4 +36,4 @@ bash shell/*
 We mainly use [VLMEvalkit](https://github.com/open-compass/VLMEvalKit) to evaluate our models. Please refer to their documentation and our model configs for more details.
 
 ## Acknowledgments
-Our training code is mainly based on [verl](https://github.com/volcengine/verl) and [verl-internvl](https://github.com/Weiyun1025/verl-internvl).
+Our training code is mainly based on [verl-internvl](https://github.com/Weiyun1025/verl-internvl), which is built upon [verl](https://github.com/volcengine/verl). Compared to the original codebase, we have added the algorithmic implementations of both On-Policy Distillation (OPD) and Globally Normalized Distillation Policy Optimization (GNDPO).
